@@ -27,6 +27,6 @@ h2 {
 figcaption {
 
 	font-size: 6;
-	justify-content: center
+	text-align: center;
 	font-style: italic;
 }
