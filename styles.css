@@ -24,3 +24,10 @@ h2 {
 	font-size: 25; 
 	font-style: italic;
 }
+figcaption {
+
+	font-size: 6;
+	padding-left: 400;
+	padding-right: 300;
+	font-style: italic;
+}
